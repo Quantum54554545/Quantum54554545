@@ -3,6 +3,10 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
+## 🚀 О себе
+
+Привет всем! Меня зовут Влад, мне 15 лет, и я увлекаюсь программированием на платформе .NET. У меня есть 1,5 года некоммерческого опыта в этой области, и я хорошо разбираюсь в Data Science.
+
 ## 📚 Проекты
 [![Репозитории](https://img.shields.io/badge/Мои_проекты-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Quantum54554545?tab=repositories)
 

@@ -3,6 +3,8 @@
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 
+**` ➤ Developer С# | LowRE | Protect`**
+
 ## 🚀 О себе
 
 Привет всем! Меня зовут Влад, мне 16 лет, и я увлекаюсь программированием на платформе .NET. У меня есть год некоммерческого опыта в этой области.

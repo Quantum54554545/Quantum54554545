@@ -10,7 +10,7 @@
   <a href="#"><img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
-
+**` ➤ Windows Internals & WinAPI, Software Security, Reverse Engineering & Anti-RE, .NET CLR`**
 
 ### 📊 My GitHub Stats
 

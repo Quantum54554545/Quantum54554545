@@ -7,6 +7,7 @@
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="WinForms" src="https://img.shields.io/badge/WinForms-blue?style=for-the-badge"></a>
+     <a href="#"><img alt="WinForms" src="https://img.shields.io/badge/WinFormsSSSSSS-blue?style=for-the-badge"></a>
   <a href="#"><img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </div>
 
@@ -25,7 +26,7 @@
 ### 🔷 Основные навыки
 - **🖥️ Языки программирования**: **C#** (включая `unsafe` код, P/Invoke, работа с указателями) 
 - **📦 Фреймворки**: .NET Framework, .NET Core, Windows
-- **🎨 UI разработка**: Windows Forms
+- **🎨 UI разработка**: Windows Forms, WPF
 - **💾 Базы данных**: MySQL
 
 ### 🔧 Опыт работы

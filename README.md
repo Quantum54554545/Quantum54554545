@@ -10,8 +10,8 @@
     <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
     <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="#"><img alt="Software Security" src="https://img.shields.io/badge/Software%20Security-white?style=for-the-badge"></a>
-    <a href="#"><img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge"></a>
+    <a href="#"><img alt="Software Security" src="https://img.shields.io/badge/Software%20Security-D73A49?style=for-the-badge&logo=lock&logoColor=white"></a>
+    <a href="#"><img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse%20Engineering-111111?style=for-the-badge&logo=linux-terminal&logoColor=white"></a>
   </p>
 </div>
 

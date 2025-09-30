@@ -49,8 +49,6 @@ I build complex protection systems for .NET applications by combining knowledge 
 **`   • Low-level hooks to prevent bypassing protections`**  
 **`   • Memory access monitoring of critical regions`**
 
-
-
 **`   • Other checks `**
 
 **` ➤ Post-build MSBuild customization experience:`**  

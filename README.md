@@ -5,6 +5,8 @@
 
 **` ➤ Developer С# | LowRE | Protect`**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Quantum54554545=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🚀 О себе
 
 Привет всем! Меня зовут Влад, мне 16 лет, и я увлекаюсь программированием на платформе .NET. У меня есть год некоммерческого опыта в этой области.

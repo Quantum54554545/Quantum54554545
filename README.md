@@ -1,7 +1,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
   <h1>👨‍💻 Quantum</h1>
-  <p>
+ <p align="center">
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="WinForms" src="https://img.shields.io/badge/WinForms-blue?style=for-the-badge"></a>
+  <a href="#"><img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
     <strong>16-летний .NET-разработчик, специализирующийся на системном программировании и безопасности приложений.</strong>
     <br>
     Моя страсть — низкоуровневая разработка под Windows и исследование внутренних механизмов .NET CLR.
@@ -10,14 +17,7 @@
     <em>"Я глубоко разбираюсь в WinAPI и создаю сложное программное обеспечение для защиты от отладки, реверс-инжиниринга и анализа в виртуальных средах."</em>
   </p>
 </div>
-<p align="center">
-  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
-  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
-  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="WinForms" src="https://img.shields.io/badge/WinForms-blue?style=for-the-badge"></a>
-  <a href="#"><img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</p>
+
 
 **` ➤ Windows Internals & WinAPI, Software Security, Reverse Engineering & Anti-RE, .NET CLR`**
 

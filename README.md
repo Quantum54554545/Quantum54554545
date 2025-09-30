@@ -10,8 +10,6 @@
     <em>"Я глубоко разбираюсь в WinAPI и создаю сложное программное обеспечение для защиты от отладки, реверс-инжиниринга и анализа в виртуальных средах."</em>
   </p>
 </div>
-
-### 💻 Технологический стек | My Tech Stack
 <p align="center">
   <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
   <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>

@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200">
-  <h1>👨‍💻 Quantum (Влад)</h1>
+  <h1>👨‍💻 Quantum</h1>
   <p>
     <strong>.NET-разработчик, специализирующийся на системном программировании и безопасности приложений.</strong>
     <br>

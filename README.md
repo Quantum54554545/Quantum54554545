@@ -11,6 +11,16 @@
   </p>
 </div>
 
+### 💻 Технологический стек | My Tech Stack
+<p align="center">
+  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>
+  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></a>
+  <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="WinForms" src="https://img.shields.io/badge/WinForms-blue?style=for-the-badge"></a>
+  <a href="#"><img alt="Telegram Bot" src="https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
+
 **` ➤ Windows Internals & WinAPI, Software Security, Reverse Engineering & Anti-RE, .NET CLR`**
 
 ### 📊 My GitHub Stats
@@ -21,10 +31,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum54554545&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
-## 🚀 О себе
-
-Привет всем! Меня зовут Влад, мне 16 лет, и я увлекаюсь программированием на платформе .NET. У меня есть год некоммерческого опыта в этой области.
-> *"Я хорошо разбираюсь в Win API и имею опыт разработки программного обеспечения для Windows."*
 
 ## 💼 Технический стек
 ### 🔷 Основные навыки

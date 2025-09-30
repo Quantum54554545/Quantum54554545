@@ -17,6 +17,13 @@
 
 ---
 
+### 📊 Статистика GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quantum54554545&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum54554545&layout=compact&theme=radical" alt="Top Languages" width="48%">
+</p>
+
+---
 ### 🚀 Ключевые компетенции и навыки
 
 Я создаю комплексные системы защиты для .NET-приложений, комбинируя знания на всех уровнях — от аппаратного до уровня CLR.
@@ -56,16 +63,6 @@
 - **Базы данных:** MySQL
 - **Инструменты анализа:** dnlib, Mono.Cecil
 - **Дополнительно:** Опыт разработки backend-логики (API, взаимодействие с БД).
-
----
-
-### 📊 Статистика GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quantum54554545&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum54554545&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</p>
-
----
 
 ### 🔗 Связаться со мной
 <p align="center">

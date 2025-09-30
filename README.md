@@ -47,8 +47,8 @@ I build complex protection systems for .NET applications by combining knowledge 
 **`   • Import/Export table verification`**  
 **`   • Code replacement prevention & foreign section injection protection`**  
 **`   • Low-level hooks to prevent bypassing protections`**  
-**`   • Memory access monitoring of critical regions`**
-**`   • Other checks `**
+**`   • Memory access monitoring of critical regions`**  
+**`   • Other Checks`**
 
 **` ➤ Post-build MSBuild customization experience:`**  
 **`   • Automated integration of protection layers after compilation`**  

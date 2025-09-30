@@ -60,7 +60,7 @@ I build complex protection systems for .NET applications by combining knowledge 
 - **Unsafe code & memory manipulation:** Confident use of pointers and low-level memory operations to maximize performance and implement custom protection mechanisms.
 
 #### **🛠️ Tools & Technologies**
-- **Languages:** **C#** (including `unsafe` code, `P/Invoke`)  
+- **Languages:** **C#** (including `unsafe` code, `P/Invoke`, `Low-level`)  
 - **Platforms:** .NET Framework, .NET Core / .NET 5+  
 - **UI:** WinForms, WPF, ImGui  
 - **Databases:** MySQL  

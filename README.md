@@ -5,7 +5,13 @@
 
 **` ➤ Developer С# | LowRE | Protect`**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Quantum54554545=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quantum54554545&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats">
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum54554545&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ## 🚀 О себе
 

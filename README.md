@@ -39,7 +39,8 @@ I build complex protection systems for .NET applications by combining knowledge 
 **`   • Memory Integrity Checks`**  
 **`   • Assembly Load Monitoring`**  
 **`   • Detection of abnormal behavior & tampering attempts`**  
-**`   • Reverse Engineering mitigation & hardening`**
+**`   • Reverse Engineering mitigation & hardening`**  
+**`   • Other various checks`**
 
 **` ➤ Specialization in Native AOT protection:`**  
 **`   • PE section integrity validation`**  

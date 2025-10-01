@@ -23,9 +23,6 @@
   <a href="https://github.com/Quantum54554545">
     <img src="https://github-readme-stats.vercel.app/api?username=Quantum54554545&show_icons=true&theme=tokyonight" alt="Quantum54554545's github stats" width="48%">
   </a>
-  <a href="https://github.com/Quantum54554545">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quantum54554545&layout=compact&theme=tokyonight" alt="Top Languages" width="48%">
-  </a>
 </p>
 
 

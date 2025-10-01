@@ -12,6 +12,9 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows_Internals-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Software Security" src="https://img.shields.io/badge/Software%20Security-white?style=for-the-badge"></a>
     <a href="#"><img alt="Reverse Engineering" src="https://img.shields.io/badge/Reverse%20Engineering-black?style=for-the-badge"></a>
+    <a href="#"><img alt="Holy C" src="https://img.shields.io/badge/Holy%20C-5A4FCF?style=for-the-badge&logo=hackthebox&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"></a>
   </p>
 </div>
 

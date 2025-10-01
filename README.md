@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Quantum54554545/media/refs/heads/main/1.gif" width="400" height="400">
+  <img src="https://raw.githubusercontent.com/Quantum54554545/media/refs/heads/main/1.gif" width="300" height="300">
   <h1>👨‍💻 Quantum</h1>
   <p>
     <strong>.NET developer specializing in system programming and application security.</strong>

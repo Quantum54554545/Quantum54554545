@@ -4,7 +4,7 @@
   <p>
     <strong>.NET developer specializing in system programming and application security.</strong>
     <br>
-    Deeply involved in Windows Internals, Reverse Engineering, and .NET protection (JIT & Native AOT).
+    Deeply involved in Windows Internals, Reverse Engineering, code obfuscation, and .NET protection (JIT & Native AOT).
   </p>
   <p align="center">
     <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></a>

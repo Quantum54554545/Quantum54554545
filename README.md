@@ -69,7 +69,7 @@ I build complex protection systems for .NET applications by combining knowledge 
 ### 🔗 Contact Me
 
 <p align="center">
-  <a href="https://t.me/quantuumm">
+  <a href="https://t.me/protectDeveloper">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="https://vk.com/skamminglocalclub">

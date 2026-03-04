@@ -21,29 +21,6 @@
 
 I build complex protection systems for .NET applications by combining knowledge across all levels — from hardware to the CLR.
 
-#### **🛡️ Software Security & Anti-Reverse Engineering**
-**` ➤ Proficient in a wide range of modern protection techniques:`**  
-**`   • Anti-Debug | Anti-Injection | Anti-Dump | Anti-Virtualization | Anti-Sandbox`**  
-**`   • Hook Detection`**  
-**`   • Anti-DLL Injection & DLL Verifier`**  
-**`   • Code Integrity Checks (Static and Runtime)`**  
-**`   • Memory Integrity Checks`**  
-**`   • Assembly Load Monitoring`**  
-**`   • Detection of abnormal behavior & tampering attempts`**  
-**`   • Reverse Engineering mitigation & hardening`**  
-**`   • Other various checks`**
-
-**` ➤ Specialization in Native AOT protection:`**  
-**`   • PE section integrity validation`**  
-**`   • Import/Export table verification`**  
-**`   • Code replacement prevention & foreign section injection protection`**  
-**`   • Low-level hooks to prevent bypassing protections`**  
-**`   • Memory access monitoring of critical regions`**  
-**`   • Other Checks`**
-
-**` ➤ Post-build MSBuild customization experience:`**  
-**`   • Automated integration of protection layers after compilation`**  
-**`   • Enhanced build-time security for C# projects`**
 
 #### **⚙️ Windows Internals & .NET CLR**
 - **Low-level Windows development:** Working with processes, threads, and memory via WinAPI and direct syscalls. In-depth understanding of Windows internal structures like **PEB** and **LDR**.

@@ -40,10 +40,7 @@ I build complex protection systems for .NET applications by combining knowledge 
 ### 🔗 Contact Me
 
 <p align="center">
-  <a href="https://t.me/protectDeveloper">
+  <a href="https://t.me/user_sharp">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://vk.com/skamminglocalclub">
-    <img src="https://img.shields.io/badge/VKontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
   </a>
 </p>
